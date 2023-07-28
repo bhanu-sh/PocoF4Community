@@ -1,0 +1,28 @@
+.black{
+  background-color: black;
+}
+
+.bt-gold{
+  border-top: 5px solid gold;
+  border-bottom: 5px solid gold;
+}
+
+.hb{
+    -webkit-text-stroke: 1.3px black;
+    -webkit-text-fill-color: gold;
+    font-weight: 1000;
+}
+
+.pb{
+  -webkit-text-stroke: 1px black;
+  -webkit-text-fill-color: white;
+  font-weight: 700;
+}
+
+.by{
+  border-bottom: 2px solid gold;
+}
+
+.sub{
+  padding-top: 50vh;
+}
